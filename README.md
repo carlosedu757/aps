@@ -1,5 +1,3 @@
-# gerenciamento-tarefas-aps
-Projeto de software para ser executado durante toda a disciplina de Análise e Projeto de Sistemas da UFC-Crateús
 <h1 align="center">Projeto Gerenciamento de Tarefas</h1>
 
 <div align="center">
