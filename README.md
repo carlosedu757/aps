@@ -1,4 +1,4 @@
-<h1 align="center">Projeto Gerenciamento de Tarefas</h1>
+<h1 align="center">Projeto Lista de Tarefas Pessoais</h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue"/>
@@ -9,17 +9,13 @@
 ### 🤓 Grupo
 * Carlos Eduardo Rodrigues Pita
 
-### :hammer: Ferramentas úteis no desenvolvimento
-área de negócio, problema a ser resolvido e o público alvo
-* IDE's:
-  * [Replit](https://replit.com/)
-  * [VS CODE](https://code.visualstudio.com/download)
-* Extensões úteis do VSCode:
-    * [Haskell](https://marketplace.visualstudio.com/items?itemName=haskell.haskell)
-    * [Haskell Syntax Highlighting
-](https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell)
-    * [haskell-linter](https://marketplace.visualstudio.com/items?itemName=hoovercj.haskell-linter)
-* [Vídeo que pode auxiliar na instação do ghci](https://www.youtube.com/watch?v=Lm_9NXu_JLk&feature=youtu.be&ab_channel=LuizAlbertodoCarmoViana)
+### :hammer: Domínio do software
+* Área de negócio:
+  * A área de negócio para a ideia da "Lista de Tarefas Pessoais" seria a gestão pessoal e organização. Embora não se trate exatamente de uma área comercial, é uma aplicação voltada para a melhoria da produtividade individual e organização pessoal, o que é um aspecto importante da vida moderna.
+* Problema a ser resolvido:
+  * Manter o controle das tarefas diárias e prioridades pode ser desafiador. Essa aplicação visa ajudá-lo a gerenciar suas tarefas de maneira eficaz.
+* Público Alvo:
+  * Você como usuário individual, buscando um método simplificado para manter uma lista de tarefas organizada.
 
 ### :page_facing_up: Descrição do Trabalho
 Projeto de software para ser executado durante toda a disciplina de Análise e Projeto de Sistemas da UFC-Crateús.
