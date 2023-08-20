@@ -2,12 +2,11 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue"/>
-  <img src="https://img.shields.io/github/contributors/zairobastos/FuncionalTrabalhoFinal"/>
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/zairobastos/FuncionalTrabalhoFinal">
+  <img src="https://img.shields.io/github/contributors/carlosedu757/gerenciamento-tarefas-aps"/>
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/carlosedu757/gerenciamento-tarefas-aps">
 </div>
 
-### 🤓 Grupo 03
-* Luiz Zairo Bastos Viana
+### 🤓 Grupo
 * Carlos Eduardo Rodrigues Pita
 
 ### :hammer: Ferramentas úteis no desenvolvimento
