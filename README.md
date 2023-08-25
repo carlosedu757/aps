@@ -1,4 +1,4 @@
-<h1 align="center">Projeto Lista de Tarefas Pessoais</h1>
+<h1 align="center">Projeto </h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue"/>
@@ -8,6 +8,7 @@
 
 ### 🤓 Grupo
 * Carlos Eduardo Rodrigues Pita
+* João Victor de Oliveira
 
 ### :hammer: Domínio do software
 * Área de negócio:
@@ -20,12 +21,7 @@
 ### 📂 Recursos do Sistema:
 A aplicação pode vir incluir funcionalidades como:
 
-* Adicionar tarefas com descrição.
-* Marcar tarefas como concluídas.
-* Editar e excluir tarefas.
-* Opção para adicionar datas de vencimento ou prioridades.
-* Visualização da lista de tarefas pendentes e concluídas.
-* Interface simples e amigável.
+
 
 ### :page_facing_up: Descrição do Trabalho
 Projeto de software para ser executado durante toda a disciplina de Análise e Projeto de Sistemas da UFC-Crateús.
